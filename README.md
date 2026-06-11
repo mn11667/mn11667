@@ -81,13 +81,13 @@ I believe in continuous learning, teamwork, and collaboration, and I am always e
 ### 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mn11667&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=9fa8da&icon_color=00e5ff" alt="mn11667's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mn11667&show_icons=true&bg_color=0d1117cc&border_color=ffffff1a&title_color=00e5ff&text_color=9fa8da&icon_color=00e5ff&border_radius=10" alt="mn11667's GitHub Stats" width="48%">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn11667&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=9fa8da" alt="mn11667's Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn11667&layout=compact&bg_color=0d1117cc&border_color=ffffff1a&title_color=00e5ff&text_color=9fa8da&border_radius=10" alt="mn11667's Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn11667&theme=tokyonight&hide_border=true&fire=00e5ff&ring=00e5ff" alt="mn11667's Streak Stats" width="98%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn11667&background=0d1117cc&border=ffffff1a&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border_radius=10" alt="mn11667's Streak Stats" width="98%">
 </p>
 
 ---
