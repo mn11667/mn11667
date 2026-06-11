@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/normal-badge.png?key=mn11667&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=mn11667&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Visitor Count">
 </p>
 
 ---
