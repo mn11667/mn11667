@@ -1,8 +1,5 @@
 <!-- Sleek, High-Tech GitHub Profile README for mn11667 -->
 
-<p align="center">
-  <img src="banner.png" alt="Madhav Neupane Banner" width="600" style="border-radius: 8px; max-width: 100%;">
-</p>
 
 <h1 align="center">Hi there, I'm Madhav Neupane! 👋</h1>
 <p align="center">
