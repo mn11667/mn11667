@@ -1,7 +1,7 @@
 <!-- Sleek, High-Tech GitHub Profile README for mn11667 -->
 
 <p align="center">
-  <img src="banner.png" alt="Madhav Neupane Banner" width="100%" style="border-radius: 8px;">
+  <img src="banner.png" alt="Madhav Neupane Banner" width="600" style="border-radius: 8px; max-width: 100%;">
 </p>
 
 <h1 align="center">Hi there, I'm Madhav Neupane! 👋</h1>
@@ -17,6 +17,8 @@
   <a href="https://www.researchgate.net/profile/Madhav-Neupane-6">
     <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate Profile">
   </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/normal-badge.png?key=mn11667&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Visitor Count">
 </p>
 
 ---
@@ -99,6 +101,3 @@ I believe in continuous learning, teamwork, and collaboration, and I am always e
 *   **ResearchGate:** [Madhav Neupane Profile](https://www.researchgate.net/profile/Madhav-Neupane-6)
 *   **Location:** Lalitpur, Nepal
 
-<p align="right">
-  <img src="https://komarev.com/normal-badge.png?key=mn11667&color=blueviolet&style=flat-square" alt="Visitor Count">
-</p>
